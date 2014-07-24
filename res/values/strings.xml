@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shape</string>
+    <string name="title_shape_detail">Shape Detail</string>
+    <string name="instructions">Les mouvements disponibles sont les suivants :\n\n\tAppliquer une rotation à l\'objet en déplaçant le doigt sur l\'écran.\n\n\tAppliquer une translation à l\'objet en laissant le doigt appuyé sur l\'écran une seconde puis en le déplaçant sur l\'écran.\n\n\tZoomer en faisant se rapprocher ou s\'éloigner deux doigts sur l\'écran ou en utilisant les boutons de zoom.\n</string>
+    <string name="OK">OK</string>
+    <string name="shapename">Nom de la forme</string>
+    <string name="loading">chargement…</string>
+    <string name="default_image">image par défaut</string>
+    <string name="about">À propos</string>
+    <string name="available">Forme disponible sur la carte SD</string>
+    <string name="unavailable">Forme pas encore téléchargée</string>
+
+</resources>
